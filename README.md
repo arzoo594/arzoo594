@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://ibb.co.com/p6GV0qFV" 
+       alt="Cover Photo" 
+       style="border-radius: 10px;" />
+</p>
+
+
 <div align="center" style="background-color:#121212; color:white; padding:40px; border-radius:15px;">
 
 <h1>Hi 👋, I'm Arzoo Ahmed</h1>
