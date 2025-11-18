@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/vCgyw9ny/Blue-and-White-Simple-Digital-Marketing-Linked-In-Article-Cover-Image.png" 
+  <img src="https://i.ibb.co/vCgyw9ny/Blue-and-White-Simple-Digital-Marketing-Linked-In-Article-Cover-Image.png" 
        alt="Cover Photo" 
-       style="border-radius: 10px;" />
+       style="border-radius: 10px; max-width: 100%; height: auto;" />
 </p>
+
 
 
 <div align="center" style="background-color:#121212; color:white; padding:40px; border-radius:15px;">
