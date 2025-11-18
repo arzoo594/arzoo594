@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://i.ibb.co/vCgyw9ny/Blue-and-White-Simple-Digital-Marketing-Linked-In-Article-Cover-Image.png" 
-       alt="Cover Photo" 
-       style="border-radius: 10px; max-width: 100%; height: auto;" />
-</p>
+
+<img width="2000" height="600" alt="Blue and White Simple Digital Marketing LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/18329344-81fd-4831-b45b-4dce2ee01d99" />
 
 
 
