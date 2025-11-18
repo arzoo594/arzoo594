@@ -5,7 +5,7 @@
 
 <p>
 🌱 I’m currently learning <b>TypeScript</b><br>
-👨‍💻 All of my projects are available at <a href="https://github.com/arzoo594/arzoo594" style="color:#1E90FF;">GitHub</a><br>
+👨‍💻 All of my projects are available at <a href="https://github.com/arzoo594?tab=repositories" style="color:#1E90FF;">GitHub</a><br>
 📫 How to reach me: <b>arzooahmed0170609@gmail.com</b>
 </p>
 
