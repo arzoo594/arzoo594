@@ -6,7 +6,7 @@
 <div align="center" style="background-color:#121212; color:white; padding:40px; border-radius:15px;">
 
 <h1>Hi 👋, I'm Arzoo Ahmed</h1>
-<h3>A passionate frontMERN Stack Developer | Turning Ideas into Scalable Web Apps</h3>
+<h3>MERN Stack Developer | JavaScript, React, Node.js, MongoDB | Building Scalable Web Applications.</h3>
 
 <p>
 🌱 I’m currently learning <b>TypeScript</b><br>
